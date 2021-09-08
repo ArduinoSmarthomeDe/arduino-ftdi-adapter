@@ -6,7 +6,7 @@ Small adapter board to simply connect a regular FTDI programmer (USB) to a Molex
 
 ## Preview
 
-![](https://github.com/ArduinoSmarthomeDe/arduino-nano-cased/blob/main/preview.jpg)
+![](https://github.com/ArduinoSmarthomeDe/arduino-ftdi-adapter/blob/main/preview.jpg)
 
 ## Layout & Production 
 
