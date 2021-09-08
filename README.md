@@ -1,4 +1,4 @@
-# Arduino FTDI Adapter to Molex PicoBlade
+# FTDI Adapter -> Arduino Molex PicoBlade
 
 ## Description
 
