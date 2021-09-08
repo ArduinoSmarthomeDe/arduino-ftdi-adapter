@@ -8,6 +8,10 @@ Small adapter board to simply connect a regular FTDI programmer (USB) to a Molex
 
 ![](https://github.com/ArduinoSmarthomeDe/arduino-ftdi-adapter/blob/main/preview.jpg)
 
+![](https://github.com/ArduinoSmarthomeDe/arduino-ftdi-adapter/blob/main/preview-pcb-1.jpg)
+
+![](https://github.com/ArduinoSmarthomeDe/arduino-ftdi-adapter/blob/main/preview-pcb-2.jpg)
+
 ## Layout & Production 
 
 You can find all the open data here as a [KiCad](http://kicad.github.io) project. The *Gerber files* for the production of the board can be found here under **releases**.
